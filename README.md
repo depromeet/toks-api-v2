@@ -4,6 +4,6 @@
 
 ### Branch 전략
 
-- main
-- staging
-- feature
+- main : 운영 (prod properties)
+- staging : 스테이징 (staging properties)
+- feature : 개발 (dev properties)
